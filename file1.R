@@ -1,0 +1,2 @@
+women
+mean(women$height)
